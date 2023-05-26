@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/weather-metcast/static/css/main.02e6558b.css",
+    "main.js": "/weather-metcast/static/js/main.15bd3171.js",
+    "static/media/mealsFood.png": "/weather-metcast/static/media/mealsFood.6f1ef6fb20aefdcca45c.png",
+    "static/media/Basket.svg": "/weather-metcast/static/media/Basket.569f7d6b6e9520fb1d1b3c77ebb21b5e.svg",
+    "index.html": "/weather-metcast/index.html",
+    "static/media/plus-icon.svg": "/weather-metcast/static/media/plus-icon.8c4f1e660740f081db95abf29cd7dd1b.svg",
+    "static/media/plus.svg": "/weather-metcast/static/media/plus.3f756fa27b0defd237b75e1d0ee4e8a3.svg",
+    "static/media/minus.svg": "/weather-metcast/static/media/minus.69947afe6f96ddf37bc2d59d9a7280e0.svg",
+    "main.02e6558b.css.map": "/weather-metcast/static/css/main.02e6558b.css.map",
+    "main.15bd3171.js.map": "/weather-metcast/static/js/main.15bd3171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e6558b.css",
+    "static/js/main.15bd3171.js"
+  ]
+}
